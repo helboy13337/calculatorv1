@@ -1,0 +1,9 @@
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\bin\Debug\voledig reken machinen.exe.config
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\bin\Debug\voledig reken machinen.exe
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\bin\Debug\voledig reken machinen.pdb
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\obj\Debug\voledig reken machinen.csprojResolveAssemblyReference.cache
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\obj\Debug\voledig_reken_machinen.Form1.resources
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\obj\Debug\voledig_reken_machinen.Properties.Resources.resources
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\obj\Debug\voledig reken machinen.csproj.GenerateResource.Cache
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\obj\Debug\voledig reken machinen.exe
+C:\Users\school\Desktop\voledig reken machinen\voledig reken machinen\obj\Debug\voledig reken machinen.pdb
